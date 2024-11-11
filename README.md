@@ -1,2 +1,5 @@
 # bb_devops_bootcamp
-Bu bizim eğitim repositorimiz.Burada güzel dosyalar var.
+Bu bizim egitim repositorimiz.Burada guzel dosyalar var.
+
+muthis bardagimiz
+![image](bardak.png)
